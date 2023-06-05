@@ -4,7 +4,7 @@ Kickgame is an e-commerce web application for sneaker enthusiasts. It allows use
 
 **Screenshots**
 
-
+![kickgame](https://github.com/rk95x/Kickgame/assets/124801781/0cee0017-2429-4482-b0b7-f9ab12988aad)
 
 
 
